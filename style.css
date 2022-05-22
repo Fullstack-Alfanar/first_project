@@ -1,0 +1,63 @@
+.delet_line{
+    text-decoration:line-through;
+    text-decoration-color: red ; 
+}
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    
+    
+}
+label{
+    font-family: 'Josefin Sans', sans-serif;
+  
+}
+input{
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius: 5px;
+    background-color:  #f3edb6;
+}
+td{
+    font-family: 'Josefin Sans', sans-serif;
+}
+tr{
+    padding-top: 3%;
+    
+}
+.delet_table{
+   width: 15%;
+   margin-bottom: 5%;
+}
+div{
+    margin-top: 2%;
+}
+form{
+    margin-top: 2%;
+}
+table{
+    margin-top: 5%;
+    border: 1%;
+}
+button{
+    border-radius: 5px;
+    background-color: #f3edb6;
+}
+table{
+    width: 60%;
+    align-items: center;
+}
+.tabe_div{
+    display: flex;
+    justify-content: center;
+    
+}
+img{
+    background:#3f3901 ;
+}
+.textarea{
+   row:2;
+}
